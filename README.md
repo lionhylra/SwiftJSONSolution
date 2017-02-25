@@ -19,7 +19,9 @@ Here is the tutoral for JSON2Swift:
   ![Screenshot](/tutorial22.png)
 3. Click the export button. Optionally you can enter the information of your project to generate the header of swift file.
   ![Screenshot](/tutorial3.png)
-  
+
+#### If there is any problem regarding using the software, please raise an issue here.
+
 ### <a name="Swift2JSON"></a>2. Swift to JSON Solution
 
 Luckily, by implementing reflection using Mirror, it is feasible to implement this feature in the code. Please see the details in another repository [YHJSONGenerator](https://github.com/lionhylra/YHJSONGenerator)
