@@ -12,7 +12,7 @@ The app **JSON2Swift** is a straightforward and easy to use tool to generate swi
 
 Here is the tutoral for JSON2Swift:
 
-0. Download the app from [macOS App Store](http://)
+0. Download the app from [macOS App Store](https://itunes.apple.com/us/app/json2swift/id1208964041?ls=1&mt=12)
 1. Copy & Paste JSON content to the input text field, or enter the URL for JSON and load it. (Note: the app currently only support JSON whose root is a dictionay structure.)
   ![Screenshot](/tutorial1.png)
 2. Enter the meaningful name of the model to replace the generated model name.
