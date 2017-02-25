@@ -6,7 +6,7 @@ Provide an efficient solution to convert objects between Swift objects(struct) a
 ### [2. Swift to JSON](#Swift2JSON)
 <br/><br/><br/>
 ### <a name="JSON2Swift"></a>1. JSON to Swift Solution
-Since Swift doesn't support dynamicly mapping JSON to struct (as explained in this [Swift blog](https://developer.apple.com/swift/blog/?id=37)), the fastest way to generate model from JSON seems to be generating the code and initialisers with JSON properties.
+Since Swift doesn't support dynamicly mapping JSON to struct (as explained in this <a href="https://developer.apple.com/swift/blog/?id=37" target="_blank">Swift blog</a>), the fastest way to generate model from JSON seems to be generating the code and initialisers with JSON properties.
 
 The app **JSON2Swift** is a straightforward and easy to use tool to generate swift models. It also supports full customization of a model and properties when it is required.
 
