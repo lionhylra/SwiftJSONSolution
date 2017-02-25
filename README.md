@@ -16,7 +16,7 @@ Here is the tutoral for JSON2Swift:
 1. Copy & Paste JSON content to the input text field, or enter the URL for JSON and load it. (Note: the app currently only support JSON whose root is a dictionay structure.)
   ![Screenshot](/tutorial1.png)
 2. Enter the meaningful name of the model to replace the generated model name.
-  ![Screenshot](/tutorial2.png)
+  ![Screenshot](/tutorial22.png)
 3. Click the export button. Optionally you can enter the information of your project to generate the header of swift file.
   ![Screenshot](/tutorial3.png)
   
