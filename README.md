@@ -8,6 +8,7 @@ Provide an efficient solution to convert objects between Swift objects(struct) a
 ### <a name="JSON2Swift"></a>1. JSON to Swift Solution
 
 ###### TODO:
+- [ ] load local JSON file
 - [ ] display JSON loaded from URL using "pretty" format
 - [ ] add a feature: "add properties that doesn't exist in JSON file"
 - [ ] deal with situation where a arry contains different objects
