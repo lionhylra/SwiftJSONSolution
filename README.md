@@ -8,13 +8,14 @@ Provide an efficient solution to convert objects between Swift objects(struct) a
 ### <a name="JSON2Swift"></a>1. JSON to Swift Solution
 
 ###### TODO:
-- [ ] load local JSON file
-- [ ] display JSON loaded from URL using "pretty" format
-- [ ] add a feature: "add properties that doesn't exist in JSON file"
+
+- [x] load local JSON file
+- [x] display JSON loaded from URL using "pretty" format
+- [x] add a feature: "add properties that doesn't exist in JSON file"
 - [ ] deal with situation where a arry contains different objects
 - [ ] enhance the function "loading JSON via url"
 - [ ] flash JSON objects when editting
-- [ ] add code highlight (low priority for now)
+- [x] add code highlight (low priority for now)
 
 
 Since Swift doesn't support dynamicly mapping JSON to struct (as explained in this <a href="https://developer.apple.com/swift/blog/?id=37" target="_blank">Swift blog</a>), the fastest way to generate model from JSON seems to be generating the code and initialisers with JSON properties.
